@@ -1,0 +1,9 @@
+numpy
+matplotlib
+gymnasium
+optuna
+tensorboardX
+tensorboard
+plotly
+kaleido
+reportlab

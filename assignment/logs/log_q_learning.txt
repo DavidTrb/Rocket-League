@@ -1,0 +1,102 @@
+[I 2026-10-26 18:13:19,522] A new study created in RDB with name: q_learning
+[I 2026-10-26 18:13:36,487] Trial 0 finished with value: -74.635 and parameters: {'alpha': 0.05611516415334506, 'gamma': 0.9950714306409916, 'eps_start': 0.7587945476302645, 'eps_end': 0.02385234757844707, 'decay_frac': 0.22481491235394924, 'q_init': -80.0}. Best is trial 0 with value: -74.635.
+[I 2026-10-26 18:13:58,770] Trial 1 finished with value: -216.12 and parameters: {'alpha': 0.01306673923805328, 'gamma': 0.9866176145774935, 'eps_start': 0.6410035105688879, 'eps_end': 0.04258888210290081, 'decay_frac': 0.11646759543664197, 'q_init': 20.0}. Best is trial 0 with value: -74.635.
+[I 2026-10-26 18:14:17,332] Trial 2 finished with value: -79.705 and parameters: {'alpha': 0.46225890010208287, 'gamma': 0.9212339110678276, 'eps_start': 0.26364247048639056, 'eps_end': 0.002642526057549917, 'decay_frac': 0.3433937943676302, 'q_init': -40.0}. Best is trial 0 with value: -74.635.
+[I 2026-10-26 18:14:36,735] Trial 3 finished with value: -92.47 and parameters: {'alpha': 0.0730953983591291, 'gamma': 0.9291229140198042, 'eps_start': 0.6506676052501416, 'eps_end': 0.002094013887393744, 'decay_frac': 0.3337157188281745, 'q_init': -60.0}. Best is trial 0 with value: -74.635.
+[I 2026-10-26 18:14:56,753] Trial 4 finished with value: -91.49 and parameters: {'alpha': 0.08168455894760163, 'gamma': 0.9785175961393013, 'eps_start': 0.2797064039425238, 'eps_end': 0.015249965725213558, 'decay_frac': 0.573931655089634, 'q_init': -100.0}. Best is trial 0 with value: -74.635.
+[I 2026-10-26 18:15:16,476] Trial 5 finished with value: -76.665 and parameters: {'alpha': 0.16409286730647918, 'gamma': 0.9170524123687291, 'eps_start': 0.1585464336867516, 'eps_end': 0.15255065745117383, 'decay_frac': 0.8725056264596475, 'q_init': 0.0}. Best is trial 0 with value: -74.635.
+[I 2026-10-26 18:15:36,911] Trial 6 finished with value: -116.57 and parameters: {'alpha': 0.040665633135147955, 'gamma': 0.9097672114006384, 'eps_start': 0.7158097238609412, 'eps_end': 0.010299214204601972, 'decay_frac': 0.19763058787582308, 'q_init': -40.0}. Best is trial 0 with value: -74.635.
+[I 2026-10-26 18:15:57,739] Trial 7 finished with value: -82.76 and parameters: {'alpha': 0.011715937392307063, 'gamma': 0.9909320402078782, 'eps_start': 0.3329019834400152, 'eps_end': 0.03345674213696821, 'decay_frac': 0.34936886087152874, 'q_init': -40.0}. Best is trial 0 with value: -74.635.
+[I 2026-10-26 18:16:20,773] Trial 8 finished with value: -94.185 and parameters: {'alpha': 0.12399967836846093, 'gamma': 0.9184854455525527, 'eps_start': 0.9726261649881027, 'eps_end': 0.06075805702761636, 'decay_frac': 0.8515991532513513, 'q_init': 10.0}. Best is trial 0 with value: -74.635.
+[I 2026-10-26 18:16:38,533] Trial 9 finished with value: -87.47 and parameters: {'alpha': 0.15696396388661144, 'gamma': 0.9921874235023117, 'eps_start': 0.17964325184672755, 'eps_end': 0.0028246357083904893, 'decay_frac': 0.13618183112843046, 'q_init': -60.0}. Best is trial 0 with value: -74.635.
+[I 2026-10-26 18:16:57,117] Trial 10 finished with value: -79.755 and parameters: {'alpha': 0.03409673743011156, 'gamma': 0.9959556190565968, 'eps_start': 0.8161611217512268, 'eps_end': 0.054031497910890784, 'decay_frac': 0.16365416010762596, 'q_init': -90.0}. Best is trial 0 with value: -74.635.
+[I 2026-10-26 18:17:18,823] Trial 11 finished with value: -83.32 and parameters: {'alpha': 0.21901635211814832, 'gamma': 0.9524606591326452, 'eps_start': 0.6652202997817538, 'eps_end': 0.17744641093217567, 'decay_frac': 0.7341356049782001, 'q_init': 20.0}. Best is trial 0 with value: -74.635.
+[I 2026-10-26 18:17:40,675] Trial 12 finished with value: -115.98 and parameters: {'alpha': 0.6617270753928199, 'gamma': 0.9103003436719425, 'eps_start': 0.1502742755608919, 'eps_end': 0.17592767409275856, 'decay_frac': 0.7368769160932372, 'q_init': -20.0}. Best is trial 0 with value: -74.635.
+[I 2026-10-26 18:18:01,428] Trial 13 finished with value: -76.145 and parameters: {'alpha': 0.20352984773796484, 'gamma': 0.945864441100855, 'eps_start': 0.41080065299759916, 'eps_end': 0.12426687939612849, 'decay_frac': 0.49827926662585487, 'q_init': -50.0}. Best is trial 0 with value: -74.635.
+[I 2026-10-26 18:18:18,373] Trial 14 finished with value: -69.86 and parameters: {'alpha': 0.040929310798388435, 'gamma': 0.9990364771647374, 'eps_start': 0.7178164133429167, 'eps_end': 0.007611719277746788, 'decay_frac': 0.30684943091429456, 'q_init': -70.0}. Best is trial 14 with value: -69.86.
+[I 2026-10-26 18:18:35,044] Trial 15 finished with value: -72.285 and parameters: {'alpha': 0.05590559453476648, 'gamma': 0.9867012913670943, 'eps_start': 0.9226213166410933, 'eps_end': 0.0063093626557452435, 'decay_frac': 0.2333989969509343, 'q_init': -60.0}. Best is trial 14 with value: -69.86.
+[I 2026-10-26 18:18:51,819] Trial 16 finished with value: -67.335 and parameters: {'alpha': 0.06510836131613083, 'gamma': 0.976083221639199, 'eps_start': 0.8959938147858317, 'eps_end': 0.008688009468748998, 'decay_frac': 0.2531109653784658, 'q_init': -40.0}. Best is trial 16 with value: -67.335.
+[I 2026-10-26 18:19:10,206] Trial 17 finished with value: -75.595 and parameters: {'alpha': 0.07264379893916852, 'gamma': 0.980822236772925, 'eps_start': 0.6354216817962932, 'eps_end': 0.005983926381850801, 'decay_frac': 0.47821978728592973, 'q_init': -100.0}. Best is trial 16 with value: -67.335.
+[I 2026-10-26 18:19:16,641] Trial 18 pruned. 
+[I 2026-10-26 18:19:38,985] Trial 19 finished with value: -58.62 and parameters: {'alpha': 0.1264440505475201, 'gamma': 0.9652499942794524, 'eps_start': 0.8162214422164122, 'eps_end': 0.0074477988592876136, 'decay_frac': 0.4705162457556935, 'q_init': -30.0}. Best is trial 19 with value: -58.62.
+[I 2026-10-26 18:20:01,703] Trial 20 pruned. 
+[I 2026-10-26 18:20:25,355] Trial 21 finished with value: -71.72 and parameters: {'alpha': 0.114585800241129, 'gamma': 0.9800087552860973, 'eps_start': 0.7500372004758367, 'eps_end': 0.01013677852348078, 'decay_frac': 0.30659374281751317, 'q_init': -10.0}. Best is trial 19 with value: -58.62.
+[I 2026-10-26 18:20:30,514] Trial 22 pruned. 
+[I 2026-10-26 18:20:46,159] Trial 23 finished with value: -73.3 and parameters: {'alpha': 0.10805237027471336, 'gamma': 0.959440808207712, 'eps_start': 0.7084196352131084, 'eps_end': 0.004291374403635357, 'decay_frac': 0.44119195359138585, 'q_init': -20.0}. Best is trial 19 with value: -58.62.
+[I 2026-10-26 18:20:57,817] Trial 24 pruned. 
+[I 2026-10-26 18:21:02,561] Trial 25 pruned. 
+[I 2026-10-26 18:21:27,441] Trial 26 finished with value: -77.51 and parameters: {'alpha': 0.09320335519444249, 'gamma': 0.9840537191728312, 'eps_start': 0.911889585177197, 'eps_end': 0.002506874992915048, 'decay_frac': 0.38068527621728643, 'q_init': -60.0}. Best is trial 19 with value: -58.62.
+[I 2026-10-26 18:21:34,347] Trial 27 pruned. 
+[I 2026-10-26 18:21:52,581] Trial 28 finished with value: -86.43 and parameters: {'alpha': 0.05477617094962866, 'gamma': 0.9947647284539156, 'eps_start': 0.559003809472149, 'eps_end': 0.011355051763797213, 'decay_frac': 0.2941753646668476, 'q_init': -80.0}. Best is trial 19 with value: -58.62.
+[I 2026-10-26 18:21:58,451] Trial 29 pruned. 
+[I 2026-10-26 18:22:15,545] Trial 30 finished with value: -58.535 and parameters: {'alpha': 0.14590233326854554, 'gamma': 0.9870351760847179, 'eps_start': 0.8433507264519902, 'eps_end': 0.006382226435297553, 'decay_frac': 0.3177327568882695, 'q_init': -70.0}. Best is trial 30 with value: -58.535.
+[I 2026-10-26 18:22:21,354] Trial 31 pruned. 
+[I 2026-10-26 18:22:26,298] Trial 32 pruned. 
+[I 2026-10-26 18:22:36,538] Trial 33 pruned. 
+[I 2026-10-26 18:22:55,033] Trial 34 finished with value: -80.075 and parameters: {'alpha': 0.08371032966691985, 'gamma': 0.9936151040780763, 'eps_start': 0.6334782938938467, 'eps_end': 0.004832836177847182, 'decay_frac': 0.38099857120168384, 'q_init': -60.0}. Best is trial 30 with value: -58.535.
+[I 2026-10-26 18:23:00,536] Trial 35 pruned. 
+[I 2026-10-26 18:23:14,597] Trial 36 finished with value: -62.785 and parameters: {'alpha': 0.09547655662440296, 'gamma': 0.9615157709124543, 'eps_start': 0.7899420860191996, 'eps_end': 0.008964899985930353, 'decay_frac': 0.27784084417984256, 'q_init': -20.0}. Best is trial 30 with value: -58.535.
+[I 2026-10-26 18:23:19,270] Trial 37 pruned. 
+[I 2026-10-26 18:23:23,942] Trial 38 pruned. 
+[I 2026-10-26 18:23:41,174] Trial 39 finished with value: -76.37 and parameters: {'alpha': 0.07003671181259273, 'gamma': 0.9600526575837517, 'eps_start': 0.8642804454249627, 'eps_end': 0.009682782437655767, 'decay_frac': 0.4412572018488279, 'q_init': -40.0}. Best is trial 30 with value: -58.535.
+[I 2026-10-26 18:23:50,084] Trial 40 pruned. 
+[I 2026-10-26 18:24:07,485] Trial 41 finished with value: -62.56 and parameters: {'alpha': 0.11279898523228797, 'gamma': 0.956664947921182, 'eps_start': 0.7402797507301812, 'eps_end': 0.015388299395293577, 'decay_frac': 0.18150317967159268, 'q_init': -30.0}. Best is trial 30 with value: -58.535.
+[I 2026-10-26 18:24:13,285] Trial 42 pruned. 
+[I 2026-10-26 18:24:31,749] Trial 43 pruned. 
+[I 2026-10-26 18:24:41,997] Trial 44 pruned. 
+[I 2026-10-26 18:24:47,343] Trial 45 pruned. 
+[I 2026-10-26 18:24:53,235] Trial 46 pruned. 
+[I 2026-10-26 18:24:59,101] Trial 47 pruned. 
+[I 2026-10-26 18:25:04,441] Trial 48 pruned. 
+[I 2026-10-26 18:25:22,955] Trial 49 finished with value: -73.305 and parameters: {'alpha': 0.12003561100344698, 'gamma': 0.9850426601602204, 'eps_start': 0.9487597455092824, 'eps_end': 0.010842820836948978, 'decay_frac': 0.22006674628021083, 'q_init': -50.0}. Best is trial 30 with value: -58.535.
+[I 2026-10-26 18:25:28,383] Trial 50 pruned. 
+[I 2026-10-26 18:25:34,326] Trial 51 pruned. 
+[I 2026-10-26 18:25:43,784] Trial 52 pruned. 
+[I 2026-10-26 18:25:49,681] Trial 53 pruned. 
+[I 2026-10-26 18:25:55,731] Trial 54 pruned. 
+[I 2026-10-26 18:26:01,619] Trial 55 pruned. 
+[I 2026-10-26 18:26:18,173] Trial 56 finished with value: -81.05 and parameters: {'alpha': 0.060367052589777724, 'gamma': 0.994902809661028, 'eps_start': 0.6695374657653501, 'eps_end': 0.005542469209055992, 'decay_frac': 0.3137519337273895, 'q_init': -70.0}. Best is trial 30 with value: -58.535.
+[I 2026-10-26 18:26:24,127] Trial 57 pruned. 
+[I 2026-10-26 18:26:44,166] Trial 58 finished with value: -77.71 and parameters: {'alpha': 0.10746833456517042, 'gamma': 0.9676341051156233, 'eps_start': 0.8463098886982535, 'eps_end': 0.007891145656626661, 'decay_frac': 0.30078736691184066, 'q_init': -50.0}. Best is trial 30 with value: -58.535.
+[I 2026-10-26 18:26:49,702] Trial 59 pruned. 
+[I 2026-10-26 18:26:55,490] Trial 60 pruned. 
+[I 2026-10-26 18:27:01,751] Trial 61 pruned. 
+[I 2026-10-26 18:27:08,023] Trial 62 pruned. 
+[I 2026-10-26 18:27:13,506] Trial 63 pruned. 
+[I 2026-10-26 18:27:18,913] Trial 64 pruned. 
+[I 2026-10-26 18:27:29,246] Trial 65 pruned. 
+[I 2026-10-26 18:27:35,065] Trial 66 pruned. 
+[I 2026-10-26 18:27:40,827] Trial 67 pruned. 
+[I 2026-10-26 18:27:46,534] Trial 68 pruned. 
+[I 2026-10-26 18:27:52,167] Trial 69 pruned. 
+[I 2026-10-26 18:27:58,001] Trial 70 pruned. 
+[I 2026-10-26 18:28:15,883] Trial 71 finished with value: -79.695 and parameters: {'alpha': 0.12969547267975398, 'gamma': 0.9691150994776363, 'eps_start': 0.8453179198188374, 'eps_end': 0.01076538483356235, 'decay_frac': 0.3221314382497364, 'q_init': -30.0}. Best is trial 30 with value: -58.535.
+[I 2026-10-26 18:28:21,728] Trial 72 pruned. 
+[I 2026-10-26 18:28:27,088] Trial 73 pruned. 
+[I 2026-10-26 18:28:32,523] Trial 74 pruned. 
+[I 2026-10-26 18:28:49,017] Trial 75 finished with value: -79.885 and parameters: {'alpha': 0.057458207686064994, 'gamma': 0.997114359672321, 'eps_start': 0.9422500525160926, 'eps_end': 0.005196917642154497, 'decay_frac': 0.17977810376872594, 'q_init': -70.0}. Best is trial 30 with value: -58.535.
+[I 2026-10-26 18:29:07,489] Trial 76 finished with value: -67.6 and parameters: {'alpha': 0.08205214463102614, 'gamma': 0.9597365800907866, 'eps_start': 0.6872687497360183, 'eps_end': 0.015294983432046005, 'decay_frac': 0.27307316056475306, 'q_init': -30.0}. Best is trial 30 with value: -58.535.
+[I 2026-10-26 18:29:12,774] Trial 77 pruned. 
+[I 2026-10-26 18:29:18,204] Trial 78 pruned. 
+[I 2026-10-26 18:29:28,531] Trial 79 pruned. 
+[I 2026-10-26 18:29:33,763] Trial 80 pruned. 
+[I 2026-10-26 18:29:50,844] Trial 81 finished with value: -72.22 and parameters: {'alpha': 0.04969953965898555, 'gamma': 0.9942819604256687, 'eps_start': 0.7070729207598063, 'eps_end': 0.007880254151477434, 'decay_frac': 0.22949169700502278, 'q_init': -80.0}. Best is trial 30 with value: -58.535.
+[I 2026-10-26 18:30:07,561] Trial 82 finished with value: -78.625 and parameters: {'alpha': 0.0634269795586166, 'gamma': 0.9996107892970384, 'eps_start': 0.7196334222570833, 'eps_end': 0.00875230675803436, 'decay_frac': 0.2538042999980733, 'q_init': -60.0}. Best is trial 30 with value: -58.535.
+[I 2026-10-26 18:30:12,868] Trial 83 pruned. 
+[I 2026-10-26 18:30:18,017] Trial 84 pruned. 
+[I 2026-10-26 18:30:34,702] Trial 85 finished with value: -82.52 and parameters: {'alpha': 0.03698043384595812, 'gamma': 0.9886386183932528, 'eps_start': 0.751944323729967, 'eps_end': 0.009570531447389891, 'decay_frac': 0.2971742477577473, 'q_init': -80.0}. Best is trial 30 with value: -58.535.
+[I 2026-10-26 18:30:40,664] Trial 86 pruned. 
+[I 2026-10-26 18:30:46,290] Trial 87 pruned. 
+[I 2026-10-26 18:30:51,261] Trial 88 pruned. 
+[I 2026-10-26 18:30:56,387] Trial 89 pruned. 
+[I 2026-10-26 18:31:01,636] Trial 90 pruned. 
+[I 2026-10-26 18:31:18,074] Trial 91 finished with value: -87.865 and parameters: {'alpha': 0.06210079219438885, 'gamma': 0.9941784328260818, 'eps_start': 0.670795572146857, 'eps_end': 0.009139513144380851, 'decay_frac': 0.16992963495233582, 'q_init': -90.0}. Best is trial 30 with value: -58.535.
+[I 2026-10-26 18:31:35,184] Trial 92 finished with value: -79.175 and parameters: {'alpha': 0.05778118276789481, 'gamma': 0.9912257527514041, 'eps_start': 0.7611035709221878, 'eps_end': 0.01140429040078107, 'decay_frac': 0.19411639272920245, 'q_init': -80.0}. Best is trial 30 with value: -58.535.
+[I 2026-10-26 18:31:41,015] Trial 93 pruned. 
+[I 2026-10-26 18:31:46,688] Trial 94 pruned. 
+[I 2026-10-26 18:31:51,558] Trial 95 pruned. 
+[I 2026-10-26 18:32:07,482] Trial 96 finished with value: -69.43 and parameters: {'alpha': 0.059344086157417736, 'gamma': 0.9865549733833034, 'eps_start': 0.966831171793627, 'eps_end': 0.005983145483433403, 'decay_frac': 0.2301349082876271, 'q_init': -70.0}. Best is trial 30 with value: -58.535.
+[I 2026-10-26 18:32:12,422] Trial 97 pruned. 
+[I 2026-10-26 18:32:29,723] Trial 98 finished with value: -77.635 and parameters: {'alpha': 0.09417952603534765, 'gamma': 0.9616526564148352, 'eps_start': 0.7834376837179526, 'eps_end': 0.013966953246251374, 'decay_frac': 0.2672285799774885, 'q_init': -20.0}. Best is trial 30 with value: -58.535.
+[I 2026-10-26 18:32:39,725] Trial 99 pruned. 
+q_learning best -58.535 {'alpha': 0.14590233326854554, 'gamma': 0.9870351760847179, 'eps_start': 0.8433507264519902, 'eps_end': 0.006382226435297553, 'decay_frac': 0.3177327568882695, 'q_init': -70.0}
